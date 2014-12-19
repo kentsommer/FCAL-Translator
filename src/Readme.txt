@@ -1,1 +1,1 @@
-This Directory will contain the source code of your project.
+Source Code for Translator components. 
