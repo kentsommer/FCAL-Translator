@@ -1,0 +1,8 @@
+Fangyi Zhu and myself (Kent Sommer) worked "together" on this iteration.
+
+Fangyi Zhu: zhuxx535
+Kent Sommer: somme282
+
+I (Kent Sommer) wrote the Matrix.cpp implementation, a portion of the AST.h cppCode functions, and my_code_2.dsl
+
+Fangyi Zhu wrote the remaining AST.h cppCode functions, my_code_1.dsl, and setup the .expected and .data files for my_code_1 and my_code_2.

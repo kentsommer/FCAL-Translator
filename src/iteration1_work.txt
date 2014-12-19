@@ -1,0 +1,8 @@
+Both Fangyi Zhu and myself (Kent Sommer) worked together on all parts of this iteration from concept 
+to implmentation. Although the pushes/commits are mostly in my name, we were working on lab machines
+under my user account so most of the commits are under my name.
+
+Code writing ended up being about 50/50 but again we were working together so we helped each other on
+almost all functions. Fangyi worked largely on the core regex creations for matching purposes. 
+I (Kent Sommer) worked largely on the test writing as well as the non-regex related parts of the scan 
+function.   
