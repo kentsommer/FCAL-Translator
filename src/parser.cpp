@@ -1,7 +1,9 @@
 /* A recursive descent parser with operator precedence.
 
    Author: Eric Van Wyk
-   Modified: Robert Edge        
+   Modified: Robert Edge
+   
+   Modified for use with the FCAL translator: Kent Sommer (2014)
 
    This algorithm is based on the work of Douglas Crockford in "Top
    Down Operator Precedence", a chapter in the book "Beautiful Code".
